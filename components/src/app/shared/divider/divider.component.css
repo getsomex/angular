@@ -1,0 +1,4 @@
+:host(:first-of-type) {
+  display: block;
+  margin-top: 20px;
+}
